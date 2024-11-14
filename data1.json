@@ -1,0 +1,15 @@
+{
+    "name": "Lauren Ducay",
+    "age": 20,
+    "city": "Seattle, WA",
+    "interests": [
+        "Art",
+        "music",
+        "traveling",
+        "pokemon",
+        "games",
+        "Food",
+        "Matcha"
+    ],
+    "is_student": true
+}
